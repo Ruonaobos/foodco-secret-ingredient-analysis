@@ -1,0 +1,28 @@
+Subject: FoodCo "The Secret Ingredient" — Campaign Wrap-Up & Recommendations
+
+Hi FoodCo Nigeria Limited,
+
+The 4-week "The Secret Ingredient" campaign has wrapped, and the results are strong — we beat target on 5 of 6 KPIs, with a final ROAS of 3.87x against a 3.5x goal.
+
+Headline numbers:
+- Impressions: 2.42M (target: 2.0M)
+- Reach: 1.18M (target: 0.8M)
+- CTR: 3.86% (target: 2.5%)
+- CPA: ₦675 (target: ≤₦800)
+- ROAS: 3.87x (target: ≥3.5x)
+- CPC came in at ₦53.51 against a ₦45 target, reflecting competitive keyword and CPM costs across Nigerian digital channels this quarter — this did not affect overall efficiency, as strong conversion rates kept CPA and ROAS well within target.
+
+By channel, Meta Ads was the standout performer (CPA ₦610, ROAS 4.27x) and Google Search converted the highest share of clicks (~18%), while Google Display underperformed against target (CPA ₦1,235, ROAS 2.11x).
+
+A deliberate two-week learning phase followed by data-led optimization from Week 3 nearly doubled ROAS across the campaign (2.54x in Weeks 1–2 to 4.96x in Weeks 3–4).
+
+Based on these results, we'd recommend for any extension or future flavour launch:
+1. Pausing Google Display and reallocating that budget to Meta Ads
+2. A modest increase to Google Search spend to capture more high-intent traffic
+3. Carrying forward the Week 3–4 optimization approach as the default playbook from day one
+
+Full performance breakdown and supporting dashboard are attached. Happy to walk through any of this on a call this week — let me know what works.
+
+Best,
+Esibe Obokparo
+The Analyst's Desk
