@@ -27,7 +27,7 @@ CPC ran above target due to competitive FMCG keyword and CPM costs in the Nigeri
 ## Dashboard
 
 **Page 1 — Overview**
-![Overview](03_dashboard\01_overview.png")
+![Overview](03_dashboard/01_overview.png")
 
 **Page 2 — Channel Performance**
 ![Channel Performance](03_dashboard/02_channel_performance.png)
